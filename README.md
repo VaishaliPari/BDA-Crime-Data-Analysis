@@ -36,4 +36,4 @@
 
 # Data Plotting Scripts
 * Run	the	Data Plotting Python programs: `python 'name_of_the_file.py' 'output_file_name.png'`
-* Output can be found in 'output_file_name.png'
+* Output can be found in `'output_file_name.png'`
