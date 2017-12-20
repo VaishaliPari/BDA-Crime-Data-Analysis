@@ -1,5 +1,9 @@
-# BDA Crime Data Analysis
+# BDA Project - NYC Crime Data Analysis
 
+# Submission by
+* Akshay Tambe (apt321@nyu.edu)
+* Manjiri Acharekar (msa530@nyu.edu)
+* Vaishali Pari (vp1096@nyu.edu)
 
 # Requirements
 * Hadoop setup in Dumbo Cluster
